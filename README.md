@@ -25,28 +25,28 @@ If you're conducting a meta-analysis and can't get your hands on raw data or sum
 ## Citation
 If you find this tool useful, please cite:
 
-Gudmundson, A. T., Koo, A., Virovka, A., Amirault, A. L., Soo, M., Cho, J. H., ... & Stark, C. E. (2023). Meta-analysis and open-source database for in vivo brain Magnetic Resonance spectroscopy in health and disease. Analytical biochemistry, 676, 115227.
+> Gudmundson, A. T., Koo, A., Virovka, A., Amirault, A. L., Soo, M., Cho, J. H., ... & Stark, C. E. (2023). Meta-analysis and open-source database for in vivo brain Magnetic Resonance spectroscopy in health and disease. Analytical biochemistry, 676, 115227.
 
 ## Instructions:
-1. *Installation*
+1. ***Installation***
 2. Download the python (Read_Figure.py) file.
-3. *Running the Application*
+3. ***Running the Application***
 4. Open a terminal/command prompt
 5. Type "python PATH_TO_FILE/Read_Figure.py PATH_TO_IMAGE/IMAGE_NAME.png"
-6. *Groups*
+6. ***Groups***
 7. Set the Left and Right and/or Bottom and Top Figure axes from the figure.
 8. Select the Radio Button for each of the Left, Right, Bottom, and Top you selected above.
 9. Once selected, click as close as you can to the axis tick mark.
 10. Select the 'Click' Radio Button option.
 11. Click the 'Update' Button.
 12. Text Above the Figure should display the axes.
-13. *Groups*
+13. ***Groups***
 14. Type in the number of groups and hit the Enter or Return key.
 15. You can now select which group you're going to work on.
-16. *Values*
+16. ***Values***
 17. With the 'Click' option still selected, click the points you wish to identify.
 18. Each user-click will output the coordinates in the terminal window.
-19. *Close*
+19. ***Close***
 20. A .csv file with the Image Filename is automatically created upon closing. 
 21. The Timestamp, Group Information, and coordinates are stored.
 
