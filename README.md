@@ -2,7 +2,7 @@
 If data from a figure is unavailable, take a screenshot and use this Figure_Reader tool to click and identify data points. 
 
 ## Summary:
-In 2020, me and a team of researchers embarked on a ***meta-analysis*** to determine the standard ranges for concentrations of brain metabolites measured with in vivo 1H Magnetic Resonance Spectroscopy. If you're not familiar with neuroimaging methods.. The key point is that we were conducting a meta-analysis, reading hundreds of papers and extracting out resulting values. We realized that it was common (quite surprisingly) that there were papers that included figures, but did *not* list their summary statistics. 
+In 2020, me and a team of researchers embarked on a ***meta-analysis*** to determine the standard ranges for concentrations of brain metabolites measured with in vivo 1H Magnetic Resonance Spectroscopy. If you're not familiar with neuroimaging methods... the key point is that we were conducting a meta-analysis, reading hundreds of papers and extracting out resulting values. We realized that it was common (quite surprisingly) that there were papers that included figures, but did *not* list their summary statistics. 
 
 When we came across such papers, we simply contacted the authors. However, we rarely got responses back with these emails. Other times, we did receive a reply, but their message was that they no longer had the data. 
 
